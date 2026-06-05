@@ -1,5 +1,63 @@
 # cal
-Smart Calculator is a simple command-line application developed in C++. It allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, division, and modulo. The program is designed with input validation and error handling to ensure accurate calculations and a smooth user experience.
+
+# Smart Calculator
+
+This is a simple calculator project developed using C++. It can perform basic arithmetic operations such as addition, subtraction, multiplication, division, and modulo.
+
+## Features
+
+- Addition (+)
+- Subtraction (-)
+- Multiplication (*)
+- Division (/)
+- Modulo (%)
+- Input validation
+- Division by zero handling
+- User-friendly interface
+
+## Technologies Used
+
+- C++
+- iostream
+- iomanip
+- limits
+
+## How to Run
+
+1. Compile the program:
+   g++ calculator.cpp -o calculator
+
+2. Run the program:
+   ./calculator
+
+## Sample Output
+
+Enter first number: 10
+Enter operator (+, -, *, /, %): *
+Enter second number: 5
+
+Result: 10.00 * 5.00 = 50.00
+
+## What I Learned
+
+While creating this project, I learned:
+- Using switch-case statements
+- Input validation in C++
+- Error handling
+- Working with loops and functions
+- Formatting output
+
+## Future Improvements
+
+- Scientific calculator functions
+- Calculation history
+- GUI version
+
+## Author
+mahek khan 
+
+
+#if still not get it then read this-> Smart Calculator is a simple command-line application developed in C++. It allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, division, and modulo. The program is designed with input validation and error handling to ensure accurate calculations and a smooth user experience.
 
 This project is suitable for beginners who want to understand fundamental C++ concepts including loops, functions, conditional statements, switch-case structures, and user input validation.
 
